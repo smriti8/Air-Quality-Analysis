@@ -1,0 +1,4 @@
+Implemented Artificial Neural Network(ANN) model and Adaptive Network based Fuzzy Inference System(ANFIS) to predict the concentration of Ozone (O3) and Nitrogen Dioxide(NO2) in the next 8 hours. Data was collected from CPCB for one station(IGI Airport) over the period of 5 years 2011-15 at the intervals of 8 hours. Feature set consisted of particulate concentration levels like O3, NO2, CO, CO2, SO2,etc and meteorological phenomena like wind speed, temperature, humidity, etc.
+Improved the performance of both the models by using Principal Component Analysis(PCA) to reduce feature dimensionality.
+PCA - ANFIS outperformed all the other models.
+Tools used : Matlab, Python
